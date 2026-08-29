@@ -1,6 +1,6 @@
-# TEKNOFEST 2026 - Yapay Zeka Destekli Lojistik Anahat Optimizasyonu (Yarı Finalist)
+# TEKNOFEST 2026 - Yapay Zeka Destekli Lojistik Anahat Optimizasyonu
 
-Bu depo, kargo taşımacılığında ana taşıma (linehaul) maliyetlerini en aza indirmek amacıyla geliştirilen optimizasyon ve yapay zeka projesinin **mimari vitrinini** içermektedir. Fikri mülkiyet ve yarışma kuralları gereği kaynak kodlar gizli (private) tutulmuş olup, burada sistemin nasıl çalıştığına dair kavramsal akış sunulmuştur.
+Bu repo, kargo taşımacılığında ana taşıma (linehaul) maliyetlerini en aza indirmek amacıyla geliştirilen **yarı finalist** optimizasyon ve yapay zeka projesinin mimari vitrinini içermektedir. Fikri mülkiyet ve yarışma kuralları gereği kaynak kodlar gizli (private) tutulmuş olup, burada sistemin nasıl çalıştığına dair kavramsal akış sunulmuştur.
 
 # Proje Özeti
 Kargo ve tedarik zinciri yönetimindeki en büyük maliyet kalemlerinden biri ana taşıma (linehaul) operasyonlarıdır. Günlük desi (kargo hacmi) dalgalanmalarının yarattığı belirsizlik, hatalı kapasite planlamasına ve atıl araç kullanımına yol açarak operasyonel maliyetleri artırmaktadır. Bu proje, söz konusu belirsizlikleri ortadan kaldırmak amacıyla makine öğrenmesi (Machine Learning) ve yöneylem araştırması (Operations Research) disiplinlerini tek bir potada eriten uçtan uca bir karar destek sistemi sunmaktadır. Çalışma kapsamında, tahmine dayalı modeller ile operasyonel talepler öngörülmüş ve bu veriler kapasite kısıtlı matematiksel algoritmalarla işlenerek minimum maliyetli araç rotalama ve filo atama planlarına dönüştürülmüştür. TEKNOFEST 2026'da Yarı Finalist unvanı kazanan bu sistem, veriyi merkeze alarak lojistik ağ tasarımında dinamik, esnek ve maliyet etkin bir çözüm mimarisi ortaya koymaktadır.
